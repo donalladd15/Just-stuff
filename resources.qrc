@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eye.jpg</file>
+        <file>comics.jpg</file>
+        <file>texture.jpg</file>
+    </qresource>
+</RCC>
